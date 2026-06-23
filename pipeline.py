@@ -3,7 +3,7 @@ Springer Capital - Referral Program Data Pipeline
 =================================================
 Processes referral data, applies business logic to detect potential fraud, and produces a validated report
 
-Author  : Empire Ogbueghu
+Author  : Akshara Sarode
 Dataset : Springer DE Intern Dataset
 Output  : output/referral_report.csv ( expected 46 rows)
 """
