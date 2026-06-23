@@ -1,8 +1,9 @@
-# Referral Pipeline Analysis
+# SPRINGER CAPITAL FINAL ASSESSMENT DATA ENGINEER 
 
 ## Overview
 
-This project builds a referral data pipeline using Python (Pandas) to process referral records, profile source tables, validate business rules, and detect potential fraud in reward allocation.
+This project builds a data pipeline to process referral data and detect potential fraud based on defined business rules.
+The pipeline integrates multiple data sources, performs cleaning and transformations, and generates a final validated report.
 
 ## Project Objectives
 
